@@ -1,0 +1,4 @@
+Codigo: 7501920004
+Nombres y apellidos: Juan Sebastian Figueroa Rodriguez
+Edad: 19
+Asignatura: Programacion Orientada a Objetos

@@ -1,0 +1,3 @@
+Cartagena: 130010
+Barranquilla: 130011
+Bogota: 130012
